@@ -32,3 +32,9 @@ To get started with this project, follow these steps:
 4. Install the dependencies:
    
    npm install
+
+### Usage
+To start the development server, run:
+
+npm run dev
+This will open the project in your default web browser. You can then toggle between dark and light modes using the provided button.
