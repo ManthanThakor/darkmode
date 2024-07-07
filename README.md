@@ -27,8 +27,8 @@ To get started with this project, follow these steps:
 
 2. Navigate to the project directory:
    
-cd darkmode
+  cd darkmode
 
 3. Install the dependencies:
 
-npm install
+  npm install
