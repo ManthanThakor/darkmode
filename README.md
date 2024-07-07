@@ -26,9 +26,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/ManthanThakor/darkmode.git
 
 2. Navigate to the project directory:
-   
-  cd darkmode
+   cd darkmode
 
 3. Install the dependencies:
-
-  npm install
+   npm install
