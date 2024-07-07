@@ -7,7 +7,6 @@ This project is a simple implementation of dark mode in a React application usin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,8 +32,16 @@ To get started with this project, follow these steps:
    
    npm install
 
-### Usage
+## Usage
 To start the development server, run:
 
 npm run dev
 This will open the project in your default web browser. You can then toggle between dark and light modes using the provided button.
+
+## Contributing
+Contributions are welcome! If you have any ideas or suggestions, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Feel free to adjust the content as needed for your specific project details.
